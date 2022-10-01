@@ -1,3 +1,7 @@
+#### Name: [Patel Harshal](https://github.com/patel-harshal/)
+- Place: Gujarat, India
+- Bio: React Native Developer
+- GitHub: [patel-harshal](https://github.com/patel-harshal/)
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
